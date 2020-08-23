@@ -6,7 +6,8 @@
 **Note** : Use Google Chrome
          : and better if open on desktop
          
- 
+#### live demo
+https://epsilondev98.github.io/resumeGenerator/
  
  #### Resume Features
 - Resume content can be edited just like a text editor (cut,copy,undo etc).
